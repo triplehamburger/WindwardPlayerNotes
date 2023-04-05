@@ -1,0 +1,5 @@
+## Title: Player Notes
+## Version: 1.0
+## Author: Alex Rajasekaran, Matt 
+
+## WindwardPlayerNotes.lua
